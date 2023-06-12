@@ -5,14 +5,14 @@
 import matplotlib.pyplot as plt
 
 # DATA - lyrics
-POKEMON_LYRICS = 'I wanna be the very best. Like no one ever was. To catch them is my real test. To train them is my cause. I will travel across the land. Searching far and wide. Each Pokemon to understand. The power that\'s inside. (Pokemon, gotta catch \'em all.) Its you and me. I know it\'s my destiny. (Pokemon.) Oh, you\'re my best friend. In a world we must defend. (Pokemon, gotta catch \'em all.) A heart so true. Our courage will pull us through. You teach me and I\'ll teach you. Pokemon. (gotta catch \'em all.) Gotta catch \'em all. Yeah. Every challenge along the way. With courage I will face. I will battle every day. To claim my rightful place. Come with me, the time is right. There\'s no better team. Arm in arm we\'ll win the fight. It\'s always been our dream. (Pokemon, gotta catch \'em all.) Its you and me. I know it\'s my destiny (Pokemon.) Oh, you\'re my best friend. In a world we must defend. (Pokemon, gotta catch \'em all.) A heart so true. Our courage will pull us through. You teach me and I\'ll teach you. Pokemon (gotta catch \'em all.) Gotta catch \'em all. Gotta catch \'em all. Gotta catch \'em all. Gotta catch \'em all. Yeah! (Pokemon, gotta catch \'em all). Its you and me. I know it\'s my destiny. (Pokemon) Oh, you\'re my best friend. In a world we must defend. (Pokemon, gotta catch \'em all.) A heart so true. Our courage will pull us through. You teach me and I\'ll teach you Pokemon. (gotta catch \'em all). Gotta catch \'em all. (Pokemon)'
-JIGGLE_JIGGLE = 'You have to have something that sticks. You have to have something that\'s monumental. When you walk out on stage, that\'s been monumental. (Jiggle, jiggle) Can you remember any of the rap that you did? My money don\'t jiggle, jiggle, it folds. I like to see you wiggle, wiggle, for sure. It makes me want to dribble, dribble, you know. Riding in my Fiat, you really have to see it. Six feet two in a compact, no slack. But luckily the seats go back. I got a knack to relax in my mind. Sipping some red, red wine. I sip booze from chalices, holding my palaces. Crib is so crampy suckers suffer from paralysis. Rhymes, I write them in the castle. You try to diss me and pretty soon your ass. Will squat in a cell \'cause I can tell you it\'s illegal. Treason, that\'s the reason I\'m regal. You do the time for the crime of lèse-majesté. And **** the police \'cause they can\'t arrest me. (They can\'t arrest me, they can\'t arrest me). (I like to see you wiggle, it makes me dribble, fancy a fiddle?). My money don\'t jiggle, jiggle, it folds. I like to see you wiggle, wiggle, for sure. It makes me want to dribble, dribble, you know. Riding in my Fiat, you really have to see it. Six feet two in a compact, no slack. But luckily the seats go back. I got a knack to relax in my mind. Sipping some red, red wine. (I like to see you wiggle, it makes me dribble, fancy a fiddle?). (I like to see you wiggle, it makes me dribble, fancy a fiddle?). (I like to see you wiggle, it makes me dribble, fancy a fiddle?). (I like to see you wiggle, it makes me dribble, fancy a fiddle?)'
-ALPHABET = 'Now it\'s time for our wrap up. Let\'s give it everything we\'ve got. Ready, begin. Artificial amateurs aren\'t at all amazing. Analytically, I assault, animate things. Broken barriers bounded by the bomb beat. Buildings are broken, basically I\'m bombarding. Casually create catastrophes, casualties. Canceling cats got their canopies collapsing. Detonate a dime of dank daily doin\' dough. Demonstrations, Don Dada on the down low. Eatin\' other editors with each and every energetic. Epileptic episode, elevated etiquette. Furious fat fabulous fantastic. Flurries of funk felt feeding the fanatics. Imitators idolize, I intimidate. In a instant, I\'ll rise in a irate state. Juiced on my jams like jheri curls, jockin\' joints. Justly, it\'s just me, writin\' my journals. Kindly I\'m kindling all kinds of ink on. Karate kick type Brits in my kingdom. Let me live a long life, lyrically lessons is. Learned lame louses just lose to my livery. My mind makes marvelous moves, masses. Marvel and move, many mock what I\'ve mastered.  Niggas nap knowin\' I\'m nice naturally. Knack, never lack, make noise nationally.  Operation, opposition, off, not optional. Out of sight, out of mind, wide beaming opticals. Perfected poem, powerful punchlines. Pummeling petty powder puffs in my prime. Quite quaint quotes keep quiet it\'s Quannum Quarrelers ain\'t got a quarter of what we got, uh. Really raw raps, risin\' up rapidly. Riding the rushing radioactivity. Super scientifical sound search sought. Silencing super fire saps that are soft. Tales ten times talented, they\'re too tough. Take that, challengers, get a tune up. Universal, unique untouched. Unadulterated, the raw uncut. Verb vice Lord victorious valid. Violate vibes that are vain make \'em vanished. Why I\'m all well, would a wise wordsmith. Just weaving up words weeded up, on my work shift. Xerox, my X-ray-diation holes extra large. X-height letters and xylophone tones.'
+BLOODYWATERS_LYRICS = "Meet the man in the maskMeet the man in the mask All those days and all that stays and I don't keep itI won't be here for it All those days and all that stays andI don't keep it thoughI won't be here for itYes Lord, huh Hail Mary's in the sky Bossed up, let's get buried alive Head on the throne 'cause that's where I reside (reside)Ways of the world that we won't survive Something's in the water (water)My nigga we lawless (lawless)Please move with cautionWho set the fairway? (Fairway)Damn right I need all this (all this)Yeah, Jack, I need all this, eyy Hittas acquitted with fingerprints on the GlockScreamin' we gon' make it like two-thirds of The LOXYeah yeah, yeah yeah Blah blah, he comes, blah blah Blood on my hands I'ma need hot agua You gon' meet your maker I won't say it in Patois Hope I strike a nerve like a pack of matches You might wanna bypass, this smoke ain't gas trick A prince-turned-pauper trying to do like kings do Sweating in chess games try move like kings moveYou should slow your roll before you drown in the moat He tried to channel balance but never found the remoteKillers on the prowl still juggin' off a lickStealing, with a double for his Common politics, everlasting mayhem Draw to stick you for your figures, that's how they hang man So what's your game plan, if you got one?You aimin' at passengers with a shotgun? (Woah)The aftermath is you in the scopeIt's warfare, is war fair? (No)You understand? It's probably better you don'tJust keep a dock on standby, charter a boatShip set sailing, planes departThe big picture's in motion, are you playing your part?Before the lights get dark and the curtains get closedAre you playing your role?As told by an organized criminalAnd general, get off my genitals, I got your generalHail Mary's in the skyBossed up, let's get buried aliveHead on the throne 'cause that's where I reside (reside)Ways of the world that we won't survive Something's in the water (the water)My nigga we lawless (lawless)Please move with cautionWho set the fairway? (Fairway)Damn right I need all this (all this)Yeah, Jack, I need all thisI had to be about 9 when I first had seen itLow lows pulled up outside of the Ralph'sAfter a car show at Dominguez They had a disagreement, they had to air outJust another day in Del Amo Fo' sho man down, mandoThank God I never had to knock your partner offOr be an another casualty of war, AmenThere's 4 footprints in the sand where I walk I never claimed to be a saint at all Four Russians trippin' with hollow tips And a Kalashnikov, ain't that y'all No, Soulo hoe, kept it clean Riding dirty, jury would have gave me thirty Herbie love buggin' out, hit the target blindfolded Electoral college devoted To hit the score, to write the score, that's not a metaphor Raging against the machinery, taping up the scenery You gotta keep the piece, to keep the peace Got dough, squad up and mopped the block up for a cleaning fee I don't need you to change I don't need you to change yourself (get, get away) But I've got get away (get, get away) But I've got get away from it all Be as free as you can Be as free as you can away from me I tried to be a saint like everybody else"
+BIRTHDAY = ' Happy Birthday to You Happy Birthday to You Happy Birthday Dear (name) Happy Birthday to You. From good friends and true, From old friends and new, May good luck go with you, And happiness too. Alternative ending: How old are you? How old are you? How old, How old How old are you? '
+TWINKLE = 'Twinkle, twinkle, little star, How I wonder what you are. Up above the world so high, Like a diamond in the sky. When the blazing sun is gone, When he nothing shines upon, Then you show your little light, Twinkle, twinkle, all the night. Then the traveller in the dark, Thanks you for your tiny spark, He could not see which way to go, If you did not twinkle so. In the dark blue sky you keep, And often through my curtains peep, For you never shut your eye, ‘Till the sun is in the sky. As your bright and tiny spark, Lights the traveller in the dark. Though I know not what you are, Twinkle, twinkle, little star. Twinkle, twinkle, little star. How I wonder what you are. Up above the world so high, Like a diamond in the sky. Twinkle, twinkle, little star. How I wonder what you are. How I wonder what you are.'
 
 # DATA - mantras
-GREEN_LATTERN = 'In brightest day, in blackest night, No evil shall escape my sight. Let those who worship evil\'s might, Beware my power... Green Lantern\'s light!'
-JEDI_CODE = 'Emotion, yet peace. Ignorance, yet knowledge. Passion, yet serenity. Chaos, yet harmony. Death, yet the Force.'
-SITH_CODE = 'Peace is a lie. There is only Passion. Through Passion, I gain Strength. Through Strength, I gain Power. Through Power, I gain Victory. Through Victory my chains are Broken. The Force shall free me.'
+SO_HUM = 'So Hum, or Soham, is a Sanskrit mantra meaning "I am that," with "that" being the universe. According to Markoe Schieffelin, working with this mantra helps one to identify with the oneness of the universe.'
+GIRA = 'It was a kind of sado-masochism. I would take the things that were painful to me and elevate them and, through the mantra of music, make them into a release..'
+FOGUS = 'The apprentice avoids all use of Java classes. The journeyman embraces Java classes. The master knows which classes to embrace and which to avoid.'
 
 # the input, what we want to encode
 def huffman(message:str) -> float:
@@ -121,27 +121,27 @@ MAX_N: int = int(170 * 3 / 2)
 # PLOT 1
 ## POKEMON
 ratios: list = list()
-for i in range(1, len(POKEMON_LYRICS)):
-    sub_message = POKEMON_LYRICS[0:i]
+for i in range(1, MAX_N):
+    sub_message = BLOODYWATERS_LYRICS[0:i]
     _, _, ratio = huffman(sub_message)
     ratios.append(ratio)
-plt.plot(ratios, '-.', color = 'red', label = 'Pokemon')
+plt.plot(ratios, '-.', color = 'red', label = 'Bloody Waters')
 plt.legend()
 ## JIGGLE JIGGLE
 ratios: list = list()
 for i in range(1, MAX_N):
-    sub_message = JIGGLE_JIGGLE[0:i]
+    sub_message = BIRTHDAY[0:i]
     _, _, ratio = huffman(sub_message)
     ratios.append(ratio)
-plt.plot(ratios, '-.', label = 'Jiggle Jiggle')
+plt.plot(ratios, '-.', label = 'Happy Birthday')
 plt.legend()
 ## ALPHABET
 ratios: list = list()
 for i in range(1, MAX_N):
-    sub_message = ALPHABET[0:i]
+    sub_message = TWINKLE[0:i]
     _, _, ratio = huffman(sub_message)
     ratios.append(ratio)
-plt.plot(ratios, '-.', label = "Alphabet")
+plt.plot(ratios, '-.', label = "Twinkle Twinkle Little Star")
 plt.legend()
 
 # PLOT 2
@@ -150,28 +150,28 @@ plt.subplot(2, 1, 2)
 ## SITH CODE
 ratios: list = list()
 for i in range(1, MAX_N):
-    sub_message = SITH_CODE[0:i]
+    sub_message = FOGUS[0:i]
     _, _, ratio = huffman(sub_message)
     ratios.append(ratio)
-plt.plot(ratios, '-.', label = "Sith Code")
+plt.plot(ratios, '-.', label = "Fogus")
 plt.legend()
 
 ## GREEN LATERN'S OATH
 ratios: list = list()
 for i in range(1, MAX_N):
-    sub_message = GREEN_LATTERN[0:i]
+    sub_message = SO_HUM[0:i]
     _, _, ratio = huffman(sub_message)
     ratios.append(ratio)
-plt.plot(ratios, '-.', label = 'Green Lantern"s Oath')
+plt.plot(ratios, '-.', label = 'So Hum')
 plt.legend()
 
 ## JEDI CODE
 ratios: list = list()
 for i in range(1, MAX_N):
-    sub_message = JEDI_CODE[0:i]
+    sub_message = GIRA[0:i]
     _, _, ratio = huffman(sub_message)
     ratios.append(ratio)
-plt.plot(ratios, '-.', label = 'Jedi Code')
+plt.plot(ratios, '-.', label = 'GIRA')
 plt.legend()
 
 plt.show()
